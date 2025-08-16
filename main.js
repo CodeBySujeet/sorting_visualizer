@@ -1,12 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sujeet Mehta
-    *****************
-*/
 
-/*
-Variable naming convention: <object>_<action>_<objectname>; Example -> Button_click_b1;
-*/
 
 //Variables (BE CAREFUL THESE MIGHT BE USED IN OTHER JS FILES TOO)
 var inp_as=document.getElementById('a_size'),array_size=inp_as.value;
@@ -91,9 +83,4 @@ function runalgo()
     }
 }
 
-/*
-    *****************
-     DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/
+

@@ -1,8 +1,4 @@
-/*
-    *****************
-   DONE BY:-   Sujeet Mehta
-    *****************
-*/
+
 
 function Merge()
 {
@@ -72,9 +68,3 @@ function merge_partition(start,end)
     }
 }
 
-/*
-    ***************** 
-    DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/

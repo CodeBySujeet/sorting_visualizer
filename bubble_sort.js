@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/
+
 
 function Bubble()
 {
@@ -44,9 +39,3 @@ function Bubble()
     enable_buttons();
 }
 
-/*
-    *****************
-    DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/

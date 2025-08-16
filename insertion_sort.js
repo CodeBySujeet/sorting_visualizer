@@ -1,9 +1,4 @@
-/*
-    *****************
-    DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/
+
 
 function Insertion()
 {
@@ -56,9 +51,3 @@ function Insertion()
     enable_buttons();
 }
 
-/*
-    *****************
-     DONE BY:-   Sujeet Mehta
-    
-    *****************
-*/
